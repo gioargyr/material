@@ -1,2 +1,2 @@
-# material
-Testing mkdocs material
+# mkdocs
+A repo for testing mkdocs
